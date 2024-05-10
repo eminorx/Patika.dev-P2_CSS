@@ -1,0 +1,58 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.search_box {
+    background-color: #e4e4e4cb;
+    text-align: center;
+    padding-top: 1px;
+}
+
+
+.search_box input {
+    width: 400px;
+    margin-bottom: 10px;
+}
+
+.buttons {
+    display: block;
+}
+
+.container {
+    height: 130px;
+    width: 100%;
+}
+
+
+.first, .second, .third {
+    margin-top: 10px;
+    display: inline-block;
+    background-color: #1fb063cb;
+    width: 32.5%;
+    height: 100%;
+    padding: 2px;
+    text-align: center;
+    vertical-align: top;
+
+}
+
+.first {
+    margin-right: 5px;
+}
+
+.second a {
+    vertical-align: middle;
+    margin-top: 12px;
+    display: inline-block;
+}
+
+.third input {
+    width: 190px;
+}
+
+footer p {
+    text-align: center;
+}
